@@ -1,0 +1,33 @@
+# Build and CMake Files
+/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiler-Output
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.log
+
+# Editor-specifics
+.vscode/
+.idea/
+*.swp
+*~
+
+# System
+.DS_Store
+Thumbs.db
+
+# Test- and Debug-Output
+Testing/
+CTestTestfile.cmake
+*.gcda
+*.gcno
